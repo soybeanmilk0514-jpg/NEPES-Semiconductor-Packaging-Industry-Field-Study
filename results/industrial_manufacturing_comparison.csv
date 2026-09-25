@@ -1,0 +1,7 @@
+manufacturing_dimension,NEPES_semiconductor_packaging,Hyundai_Steel,common_lesson
+Material_flow,"wafer;chemical;package;lot","iron_ore;molten_iron;slab;coil","material_state_and_movement_are_part_of_production"
+Equipment,"lithography;plating;bonding;test_tool","blast_furnace;converter;caster;rolling_mill","uptime_and_condition_affect_throughput"
+Process_control,"recipe;chemistry;SPC","composition;temperature;rolling_condition","variation_must_be_controlled"
+Intermediate_product,"wafer_level_structure;package_WIP","molten_iron;slab","upstream_quality_propagates_downstream"
+Quality,"inspection;electrical_test;change_control","dimension;mechanical_properties;inspection","quality_is_built_across_process_steps"
+Production_goal,"yield;throughput;reliability","continuous_output;specification;productivity","stable_repeatable_flow"
