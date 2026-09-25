@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="560" viewBox="0 0 1100 560">
+<rect width="1100" height="560" fill="#fff"/>
+<style>.t{font:700 28px Arial,sans-serif;fill:#172033}.h{font:700 21px Arial,sans-serif;fill:#172033;text-anchor:middle}.s{font:16px Arial,sans-serif;fill:#5b6577;text-anchor:middle}.b1{fill:#f5f0ff;stroke:#7c3aed;stroke-width:3}.b2{fill:#fff4ed;stroke:#ea580c;stroke-width:3}.mid{fill:#f7f9fc;stroke:#667085;stroke-width:2}</style>
+<text class="t" x="55" y="55">Manufacturing Systems — Different Physics, Similar Control Logic</text>
+<rect class="b1" rx="18" x="70" y="110" width="360" height="330"/>
+<text class="h" x="250" y="155">NEPES Semiconductor Packaging</text>
+<text class="s" x="250" y="205">Wafer / package lot flow</text>
+<text class="s" x="250" y="240">Developer / plating / RDL / bump</text>
+<text class="s" x="250" y="275">Equipment condition / recipe</text>
+<text class="s" x="250" y="310">SPC / defect / yield</text>
+<text class="s" x="250" y="345">Inspection / test</text>
+<text class="s" x="250" y="380">Change control</text>
+<rect class="b2" rx="18" x="670" y="110" width="360" height="330"/>
+<text class="h" x="850" y="155">Hyundai Steel</text>
+<text class="s" x="850" y="205">Raw material / molten iron flow</text>
+<text class="s" x="850" y="240">Blast furnace / converter / caster</text>
+<text class="s" x="850" y="275">Temperature / composition control</text>
+<text class="s" x="850" y="310">Continuous production</text>
+<text class="s" x="850" y="345">Logistics / transport</text>
+<text class="s" x="850" y="380">Safety / inspection</text>
+<rect class="mid" rx="18" x="455" y="185" width="190" height="180"/>
+<text class="h" x="550" y="225">Common Core</text>
+<text class="s" x="550" y="265">Stable flow</text>
+<text class="s" x="550" y="295">Equipment reliability</text>
+<text class="s" x="550" y="325">Process control</text>
+<text class="s" x="550" y="355">Quality assurance</text>
+<text class="s" x="550" y="500">Portfolio comparison diagram — not company production data.</text>
+</svg>
