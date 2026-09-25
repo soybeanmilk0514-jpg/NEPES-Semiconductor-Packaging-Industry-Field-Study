@@ -415,3 +415,7 @@ This repository separates:
 3. **My career interpretation for semiconductor process / manufacturing / quality roles**
 
 No claim is made that I personally operated NEPES equipment, analyzed production chemicals, or participated in Hyundai Steel production control.
+
+---
+
+[← Back to Subin Joo's GitHub Portfolio](https://github.com/soybeanmilk0514-jpg)
