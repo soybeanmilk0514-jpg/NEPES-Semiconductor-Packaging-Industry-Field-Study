@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<rect width="1200" height="320" fill="#ffffff"/>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#5b6577"/></marker></defs>
+<style>.b{fill:#f7f9fc;stroke:#7c3aed;stroke-width:3}.h{font:700 21px Arial,sans-serif;fill:#172033;text-anchor:middle}.s{font:15px Arial,sans-serif;fill:#5b6577;text-anchor:middle}.l{stroke:#5b6577;stroke-width:4;marker-end:url(#a)}</style>
+<rect class="b" rx="18" x="20" y="80" width="170" height="150"/><text class="h" x="105" y="122">Material</text><text class="s" x="105" y="156">Developer</text><text class="s" x="105" y="181">Cu chemistry</text>
+<line class="l" x1="205" y1="155" x2="260" y2="155"/>
+<rect class="b" rx="18" x="275" y="80" width="170" height="150"/><text class="h" x="360" y="122">Pattern / RDL</text><text class="s" x="360" y="156">Lithography</text><text class="s" x="360" y="181">Cu plating</text>
+<line class="l" x1="460" y1="155" x2="515" y2="155"/>
+<rect class="b" rx="18" x="530" y="80" width="170" height="150"/><text class="h" x="615" y="122">Package</text><text class="s" x="615" y="156">Bump · WLP</text><text class="s" x="615" y="181">Fan-Out / PLP</text>
+<line class="l" x1="715" y1="155" x2="770" y2="155"/>
+<rect class="b" rx="18" x="785" y="80" width="170" height="150"/><text class="h" x="870" y="122">Inspect / Test</text><text class="s" x="870" y="156">SPC</text><text class="s" x="870" y="181">Defect analysis</text>
+<line class="l" x1="970" y1="155" x2="1025" y2="155"/>
+<rect class="b" rx="18" x="1040" y="65" width="140" height="180"/><text class="h" x="1110" y="115">Stable</text><text class="h" x="1110" y="145">Mass Production</text><text class="s" x="1110" y="183">Yield</text><text class="s" x="1110" y="208">Productivity</text>
+</svg>
