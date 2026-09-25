@@ -29,7 +29,7 @@ NEPES에서는 첨단 반도체 후공정과 공정 소재를 중심으로, 방�
 | Companies | NEPES · Hyundai Steel |
 | Main portfolio focus | NEPES semiconductor packaging / process materials |
 | Observation type | company tour + production-site observation + employee explanation |
-| Career lens | Process engineering · Mass production · Quality · Equipment |
+| Engineering lens | Process · Manufacturing · Quality · Equipment |
 | NEPES research focus | Advanced packaging, Cu plating, developer, RDL, yield, SPC |
 | Hyundai Steel role | Large-scale continuous manufacturing comparison |
 
@@ -369,7 +369,7 @@ NEPES의 장비직무 내용을 조사하면서 장비사 지원 시에도 다�
 | [Mass Production](./guide/04_mass_production.md) | 장비·SPC·수율·생산성 |
 | [Quality Engineering](./guide/05_quality_change_control.md) | 품질검증·변경점 관리 |
 | [Hyundai Steel](./guide/06_hyundai_steel.md) | 대규모 연속제조 관찰 |
-| [Career Takeaways](./guide/07_career_takeaways.md) | 공정·양산·품질·장비 직무 연결 |
+| [Engineering Takeaways](./guide/07_career_takeaways.md) | 공정·양산·품질·장비 직무 연결 |
 | [Evidence Scope](./guide/08_evidence_scope.md) | 현장 관찰과 사후조사 구분 |
 | [References](./references/README.md) | 공식 기업·채용 자료 |
 
