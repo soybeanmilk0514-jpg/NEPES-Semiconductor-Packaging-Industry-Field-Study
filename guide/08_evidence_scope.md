@@ -21,7 +21,7 @@ NEPES official sources:
 - WLP
 - FOWLP / PLP / PoP
 - process chemicals
-- current process / equipment / quality recruitment pages
+- referenced process / equipment / quality recruitment pages
 
 Hyundai Steel official sources:
 
@@ -29,7 +29,7 @@ Hyundai Steel official sources:
 - torpedo-car material transport
 - continuous casting / rolling flow
 
-## C. Career Interpretation
+## C. Engineering Interpretation
 
 내가 포트폴리오 과정에서 정리한 내용:
 

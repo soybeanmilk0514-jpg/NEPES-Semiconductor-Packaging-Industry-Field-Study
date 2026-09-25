@@ -29,7 +29,7 @@ Approximate narrative weighting:
 - NEPES: 80%
 - Hyundai Steel: 20%
 
-This weighting reflects my semiconductor-career direction rather than the duration of each tour.
+This weighting reflects the semiconductor-engineering focus of the study rather than the duration of each tour.
 
 ## Important Terminology Note
 

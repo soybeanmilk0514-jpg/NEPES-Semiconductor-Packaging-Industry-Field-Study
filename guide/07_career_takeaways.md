@@ -32,7 +32,7 @@
 
 이 서로 연결된다.
 
-## Equipment Company
+## Equipment and Process Integration
 
 장비사 관점에서도 고객은 장비 자체가 아니라 **stable production result**를 원한다.
 
@@ -52,7 +52,7 @@
 
 NEPES는 packaging뿐 아니라 process chemical과 equipment / quality / process roles를 동시에 볼 수 있는 회사다.
 
-특히 현재 공정직무에 **도금액 분석, SPC, 불량 개선, 수율 향상**이 명시돼 있다는 점은 재료공학 전공과 양산기술 직무를 직접 연결해 볼 수 있는 좋은 사례였다.
+특히 참고한 공정직무 자료에 **도금액 분석, SPC, 불량 개선, 수율 향상**이 명시돼 있다는 점은 재료공학 전공과 양산기술 직무를 직접 연결해 볼 수 있는 좋은 사례였다.
 
 ## Why Hyundai Steel Was Technically Valuable
 

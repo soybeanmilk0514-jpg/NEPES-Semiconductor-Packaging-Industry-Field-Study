@@ -29,7 +29,7 @@
 
 ## NEPES Equipment Role
 
-NEPES의 current advanced-packaging equipment recruitment lists:
+NEPES의 referenced advanced-packaging equipment recruitment lists:
 
 - production / development equipment operation
 - equipment setup
@@ -60,7 +60,7 @@ Defect / yield
 Production output
 ```
 
-이 구조는 향후 장비사 지원에서도 중요한 관점이라고 생각한다.
+이 구조는 장비와 공정 결과의 관계를 이해하는 데 중요한 관점이라고 생각한다.
 
 장비사 engineer 역시 customer production line에서:
 

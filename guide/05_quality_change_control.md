@@ -8,7 +8,7 @@
 
 ## NEPES Quality Role
 
-NEPES의 current semiconductor-quality recruitment page는 다음 업무를 명시한다.
+NEPES의 referenced semiconductor-quality recruitment page는 다음 업무를 명시한다.
 
 - customer service response
 - internal quality verification
@@ -56,7 +56,7 @@ SPC는 process average만 보는 것이 아니라 variation과 trend를 감시�
 
 양산에서는 defect가 발생한 뒤 대응하는 것뿐 아니라, control chart나 process indicator를 통해 이상을 조기에 찾고 preventive action을 수행하는 것이 중요하다.
 
-## Career Takeaway
+## Engineering Takeaway
 
 품질 직무를 단순 “검사”로 이해하지 않게 됐다.
 

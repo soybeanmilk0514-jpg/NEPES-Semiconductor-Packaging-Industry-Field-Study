@@ -2,7 +2,7 @@
 
 2026년 9월 18–19일 진행한 산업시찰에서 **NEPES(네패스)**와 **현대제철**의 실제 제조 현장을 방문하고, 현장 설명을 통해 제조 공정·설비·품질·물류가 어떻게 연결되는지 관찰한 field-study project입니다.
 
-두 기업 모두 대규모 제조업이라는 공통점이 있었지만, 이 저장소는 반도체 공정/양산/품질 직무를 희망하는 관점에서 **NEPES 경험을 중심으로 약 80%**, 현대제철 경험을 제조 시스템 비교 관점에서 약 20% 비중으로 정리했습니다.
+두 기업 모두 대규모 제조업이라는 공통점이 있었지만, 이 저장소는 반도체 공정·양산·품질의 공학적 연관성을 중심으로 **NEPES 경험을 중심으로 약 80%**, 현대제철 경험을 제조 시스템 비교 관점에서 약 20% 비중으로 정리했습니다.
 
 NEPES에서는 첨단 반도체 후공정과 공정 소재를 중심으로, 방문 후 추가 조사를 통해 다음 흐름을 연결했습니다.
 
@@ -17,7 +17,7 @@ NEPES에서는 첨단 반도체 후공정과 공정 소재를 중심으로, 방�
 - yield / productivity
 - quality change control
 
-> This repository distinguishes direct field observation from post-visit company research and career interpretation. It does not claim that I personally operated production equipment or performed process experiments during the visit.
+> This repository distinguishes direct field observation from post-visit company research and engineering interpretation. It does not claim that I personally operated production equipment or performed process experiments during the visit.
 
 ---
 
@@ -145,7 +145,7 @@ Mass production requires control of:
 - process margin
 - equipment stability
 
-NEPES's current 8-inch process-engineering recruitment page explicitly lists:
+NEPES's referenced 8-inch process-engineering recruitment page explicitly lists:
 
 - plating-solution analysis and management
 - defect-improvement evaluation
@@ -155,13 +155,13 @@ NEPES's current 8-inch process-engineering recruitment page explicitly lists:
 
 as actual duties.
 
-This made the connection between the industrial visit and semiconductor process-engineering work much clearer.
+This clarified the relationship between process chemistry, defect analysis, and production stability.
 
 ---
 
 ## 4. Equipment Engineering & Mass-Production Stabilization
 
-NEPES's current advanced-packaging equipment roles include:
+NEPES's referenced advanced-packaging equipment roles include:
 
 - equipment setup
 - maintenance / preventive maintenance
@@ -172,7 +172,7 @@ NEPES's current advanced-packaging equipment roles include:
 - production stabilization
 - collaboration across process / quality / production teams
 
-This is close to the type of work I want to prepare for.
+These responsibilities connect equipment operation to process stability and manufacturing performance.
 
 The visit helped me understand that equipment engineers are not only responsible for fixing machines.
 
@@ -275,7 +275,7 @@ Steel Product
 
 특히 molten iron은 **torpedo car**를 이용해 다음 steelmaking process로 운반됩니다.
 
-### Why This Was Useful Even for a Semiconductor Career
+### Connection to Semiconductor Manufacturing
 
 산업은 다르지만 실제 제조현장에서 다음 공통점을 볼 수 있었습니다.
 
@@ -300,7 +300,7 @@ Steel Product
 
 ---
 
-## My Career Takeaways
+## Engineering Takeaways
 
 ### Process Engineering
 
@@ -344,9 +344,9 @@ Traceability
 Customer quality
 ```
 
-### Equipment Companies
+### Equipment and Process Integration
 
-NEPES의 장비직무 내용을 조사하면서 장비사 지원 시에도 다음 경험과 연결할 수 있다고 느꼈습니다.
+NEPES의 장비 관련 업무를 조사하면서 다음 요소가 공정 안정화와 연결된다는 점을 정리했습니다.
 
 - equipment setup / qualification
 - preventive maintenance
@@ -369,7 +369,7 @@ NEPES의 장비직무 내용을 조사하면서 장비사 지원 시에도 다�
 | [Mass Production](./guide/04_mass_production.md) | 장비·SPC·수율·생산성 |
 | [Quality Engineering](./guide/05_quality_change_control.md) | 품질검증·변경점 관리 |
 | [Hyundai Steel](./guide/06_hyundai_steel.md) | 대규모 연속제조 관찰 |
-| [Engineering Takeaways](./guide/07_career_takeaways.md) | 공정·양산·품질·장비 직무 연결 |
+| [Engineering Takeaways](./guide/07_career_takeaways.md) | 공정·양산·품질·장비의 연결 관계 |
 | [Evidence Scope](./guide/08_evidence_scope.md) | 현장 관찰과 사후조사 구분 |
 | [References](./references/README.md) | 공식 기업·채용 자료 |
 
@@ -412,7 +412,7 @@ This repository separates:
 
 1. **Direct industrial visit experience**
 2. **Official company / recruitment information researched after the visit**
-3. **My career interpretation for semiconductor process / manufacturing / quality roles**
+3. **My engineering interpretation for semiconductor process / manufacturing / quality roles**
 
 No claim is made that I personally operated NEPES equipment, analyzed production chemicals, or participated in Hyundai Steel production control.
 

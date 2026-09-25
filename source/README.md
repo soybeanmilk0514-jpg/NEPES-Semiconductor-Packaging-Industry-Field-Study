@@ -8,7 +8,7 @@ The technical artifacts are:
 
 - process maps
 - manufacturing comparison tables
-- career-relevance analysis
+- engineering-relevance analysis
 - public-company research
 
 All NEPES / Hyundai Steel technical details are limited to publicly available official information.

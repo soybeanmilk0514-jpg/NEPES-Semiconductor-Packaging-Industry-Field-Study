@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /overview.html
+---
+
 # NEPES Semiconductor Packaging Industry Field Study
 
 ## Overview
@@ -43,9 +48,9 @@ Change Control
 - defect improvement
 - quality change control
 
-## Career Connection
+## Engineering Connection
 
-현재 NEPES process-engineering role에는 plating-solution management, defect improvement, SPC, yield improvement가 포함되고, equipment roles에는 setup, PM, condition optimization, yield/productivity improvement, and mass-production stabilization이 포함됩니다.
+참고한 NEPES process-engineering 공고에는 plating-solution management, defect improvement, SPC, yield improvement가 포함되고, equipment roles에는 setup, PM, condition optimization, yield/productivity improvement, and mass-production stabilization이 포함됩니다.
 
 이 때문에 이번 방문은 재료공학 지식을 실제 생산기술 직무와 연결하는 계기가 되었습니다.
 

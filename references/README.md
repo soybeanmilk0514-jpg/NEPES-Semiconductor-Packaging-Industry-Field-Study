@@ -53,7 +53,7 @@ Used for:
 - thick photoresist for RDL / Cu pillar / TSV
 - process-margin and plating-resistance context
 
-## NEPES — Career Research
+## NEPES — Engineering Responsibilities
 
 ### 8-inch Process Engineer
 https://careers.nepes.co.kr/job_posting/0Of1fAkf

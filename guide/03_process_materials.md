@@ -67,9 +67,9 @@ Cu plating은 다음 구조들과 연결될 수 있다.
 - residue
 - equipment condition
 
-## Career Connection
+## Engineering Connection
 
-NEPES의 현재 8-inch process-engineering role에는 다음이 실제 업무로 기재돼 있다.
+NEPES의 참고한 8-inch process-engineering 공고에는 다음이 실제 업무로 기재돼 있다.
 
 - plating-solution analysis and management
 - defect-improvement evaluation
