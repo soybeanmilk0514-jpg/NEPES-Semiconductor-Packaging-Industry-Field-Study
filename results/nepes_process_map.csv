@@ -1,0 +1,10 @@
+area,process_or_technology,main_function,mass_production_control_point
+Lithography,Photoresist_and_Developer,Define_fine_pattern,"develop_condition;residue;CD;pattern_fidelity"
+Metallization,Cu_Electroplating,Form_Cu_interconnect_or_bump,"bath_chemistry;uniformity;fill;adhesion"
+Wet_Process,PR_Stripper,Remove_photoresist_after_process,"residue;metal_damage;process_margin"
+Wet_Process,Metal_Etchant,Pattern_metal_layer,"etch_rate;undercut;uniformity;endpoint"
+Packaging,RDL,Redistribute_I_O,"line_width;thickness;adhesion;open_short"
+Packaging,Bumping,Electrical_and_mechanical_interconnect,"bump_height;uniformity;void;alignment"
+Packaging,WLP,Wafer_level_package_integration,"wafer_warpage;yield;reliability"
+Packaging,FOWLP_PLP,Expand_I_O_outside_chip_area,"warpage;RDL;die_shift;yield"
+Test,Wafer_and_Final_Test,Screen_electrical_quality,"coverage;repeatability;traceability"
