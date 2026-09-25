@@ -1,0 +1,6 @@
+career_area,official_NEPEs_example,skill_or_question_i_connected
+Process_engineering,"plating_solution_analysis;defect_improvement;SPC;yield_improvement","material_behavior;process_window;root_cause;data"
+Equipment_engineering,"setup;PM;abnormal_response;condition_optimization;new_tool_stabilization","equipment_state_to_process_result;troubleshooting"
+Quality_engineering,"internal_quality_verification;change_point_management;customer_response","traceability;risk_assessment;verification"
+Mass_production,"yield_and_productivity_improvement;production_stabilization","repeatability;throughput;lot_variation"
+Materials_engineering,"developer;Cu_plating;stripper;etchant","chemistry_to_pattern_and_interconnect_quality"
