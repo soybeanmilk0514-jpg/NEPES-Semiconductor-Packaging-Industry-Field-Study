@@ -1,4 +1,4 @@
-# 07. Career Takeaways
+# 07. Engineering Takeaways
 
 ## Process Engineering
 
@@ -48,13 +48,13 @@
 
 를 이해해야 한다.
 
-## Why NEPES Was Useful for My Career
+## Why NEPES Was Technically Relevant
 
 NEPES는 packaging뿐 아니라 process chemical과 equipment / quality / process roles를 동시에 볼 수 있는 회사다.
 
 특히 현재 공정직무에 **도금액 분석, SPC, 불량 개선, 수율 향상**이 명시돼 있다는 점은 재료공학 전공과 양산기술 직무를 직접 연결해 볼 수 있는 좋은 사례였다.
 
-## Why Hyundai Steel Was Still Valuable
+## Why Hyundai Steel Was Technically Valuable
 
 현대제철 방문은 semiconductor-specific knowledge보다는 **manufacturing scale, continuous flow, equipment dependence, logistics, safety**를 실제 현장에서 체감하게 해준 경험이었다.
 
